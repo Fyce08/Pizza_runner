@@ -196,9 +196,7 @@ GROUP BY
   DATE_PART('dow', order_time)
 ORDER BY day_of_week;
 
-/*
-   Runner and Customer Experience Solution :
-*/
+-- Runner and Customer Experience Solution :
 
 -- 1. How many runners signed up for each 1 week? (i.e. week starts 2021-01-01)
 
