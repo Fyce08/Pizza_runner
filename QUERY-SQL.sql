@@ -303,7 +303,7 @@ WITH order_count AS (
   INNER JOIN order_count AS co
     ON ro.order_id = co.order_id
   WHERE pickup_time IS NOT NULL
-  ORDER BY speed DESC
+  ORDER BY speed DESC;
 
 /*Findings:
 Orders shown in decreasing order of average speed:
