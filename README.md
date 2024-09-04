@@ -1,8 +1,6 @@
 
 # **Pizza Runner**
 
-
-
 ##  **Table Of Contents**
   ### -[Problem Statement](#problem-statement)
   ### -[Dataset](#dataset)
