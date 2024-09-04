@@ -14,7 +14,7 @@
 
 ## **Problem Statement**
 
-> As John scrolled through his Instagram feed, something instantly grabbed his attention: “80s Retro Styling and Pizza Is The Future!” The vibrant, nostalgic theme resonated with him, sparking a wave of inspiration.
+As John scrolled through his Instagram feed, something instantly grabbed his attention: “80s Retro Styling and Pizza Is The Future!” The vibrant, nostalgic theme resonated with him, sparking a wave of inspiration.
 
 John was hooked on the idea, but he knew that retro-themed pizza alone wouldn’t be enough to secure the seed funding he needed to expand his budding pizza venture. He realized he needed something more—a twist that would set his business apart. That’s when a lightbulb went off: why not take the convenience of ride-sharing and apply it to pizza delivery? And just like that, Pizza Runner was born.
 
